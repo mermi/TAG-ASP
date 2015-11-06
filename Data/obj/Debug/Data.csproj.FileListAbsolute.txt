@@ -1,0 +1,15 @@
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\Data.dll.config
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\Data.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\Data.pdb
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\Domain.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\EntityFramework.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\MySql.Data.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\Domain.pdb
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\EntityFramework.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\obj\Debug\Data.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Data\obj\Debug\Data.pdb

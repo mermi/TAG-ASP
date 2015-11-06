@@ -1,0 +1,10 @@
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\Domain.dll.config
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\Domain.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\Domain.pdb
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\obj\Debug\Domain.dll
+C:\Users\Mermi\Documents\Visual Studio 2015\Projects\VGTA\Domain\obj\Debug\Domain.pdb
