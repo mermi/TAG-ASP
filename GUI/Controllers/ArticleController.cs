@@ -1,4 +1,5 @@
 ﻿using Data.Models;
+using Data.Repositories;
 using Services;
 using System;
 using System.Collections.Generic;
@@ -57,24 +58,24 @@ namespace GUI.Controllers
         public ActionResult Edit(int id)
         {
             article article = ause.getArticle(id);
-            if (article == null)
-            {
-                return HttpNotFound();
-            }
-            return View();
+            
+            return View(article);
 
         }
 
         // POST: Article/Edit/5
         [HttpPost]
-        public ActionResult Edit(article a)
+        public ActionResult Edit(int id, article a)
         {
-            if (ModelState.IsValid)
-            {
-                ause.UpdateArticle(a);
-                return RedirectToAction("Index");
-            }
-            return View();
+            article article = ause.getArticle(id);
+
+            //article.pubDate = Request.Form["pubDate"];
+            article.text = Request.Form["text"];
+            article.title = Request.Form["title"];
+            article.video = Request.Form["video"];
+
+            ause.UpdateArticle(article);
+            return RedirectToAction("Index");
 
         }
 

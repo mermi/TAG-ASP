@@ -14,6 +14,7 @@ namespace  Data.Repositories
 {
     public class ArticleRepository : RepositoryBase<article>, IArticleRepository
     {
+
         public ArticleRepository(IDatabaseFactory dbFactory)
             : base(dbFactory)
         {
